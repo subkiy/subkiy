@@ -1,5 +1,10 @@
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=subkiy&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subkiy&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" />
+    </td>
+  </tr>
+</table>
